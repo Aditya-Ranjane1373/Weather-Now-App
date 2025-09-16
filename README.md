@@ -28,5 +28,14 @@ It uses the **[Open-Meteo API](https://open-meteo.com/)** to fetch live weather 
 - **API:** [Open-Meteo Geocoding & Forecast API](https://open-meteo.com/)  
 
 ---
+weather-now-app/
+│── public/
+│── src/
+│   │── App.jsx
+│   │── main.jsx
+│   │── index.css
+│   │── App.css
+│── package.json
+│── README.md
 
 
