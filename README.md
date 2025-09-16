@@ -6,7 +6,7 @@ It uses the **[Open-Meteo API](https://open-meteo.com/)** to fetch live weather 
 ---
 
 ## 🚀 Live Demo
-👉 [Click here to view the app](https://YOUR_DEPLOYED_LINK_HERE)  
+👉 [Click here to view the app](https://timely-moonbeam-89c1f5.netlify.app/)  
 
 ---
 
