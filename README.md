@@ -29,6 +29,4 @@ It uses the **[Open-Meteo API](https://open-meteo.com/)** to fetch live weather 
 
 ---
 
-## 📡 APIs Used
-1. **Geocoding API** → Convert city name → latitude & longitude  
-   Example:  
+
