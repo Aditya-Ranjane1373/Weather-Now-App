@@ -1,14 +1,12 @@
-🌤️ Weather-Now-App
-Weather Now is a simple and responsive web application that displays the current weather conditions of any city in real-time.
+# React + Vite
 
-🌍 Search weather by city name
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-⏱️ Auto-updates time every second
+Currently, two official plugins are available:
 
-🌡️ Shows temperature, humidity, and weather condition
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
-📱 Fully responsive design (works on desktop & mobile)
+## Expanding the ESLint configuration
 
-⚡ Built with React.js and OpenWeatherMap API
-
-Perfect for learning API integration, state management, and live updates with React.
+If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
