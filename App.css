@@ -1,0 +1,57 @@
+/* Weather Card */
+.weather-card {
+  border-radius: 20px;
+  background: linear-gradient(135deg, #ffffff, #f9fbff);
+  box-shadow: 0px 8px 25px rgba(0, 0, 0, 0.15);
+  transition: all 0.4s ease;
+}
+.weather-card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0px 12px 35px rgba(0, 0, 0, 0.25);
+}
+
+/* City name */
+.city-name {
+  font-size: 1.8rem;
+  font-weight: 700;
+  color: #0d6efd;
+  text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.1);
+}
+
+/* Info Boxes */
+.info-box {
+  background: #f1f8ff;
+  border-radius: 14px;
+  padding: 15px;
+  font-size: 1.2rem;
+  font-weight: 600;
+  color: #212529;
+  box-shadow: inset 0px 2px 6px rgba(0, 0, 0, 0.1);
+  transition: 0.3s ease;
+}
+.info-box:hover {
+  background: #e8f0fe;
+  transform: scale(1.05);
+}
+
+/* Label under each info */
+.info-label {
+  margin: 5px 0 0 0;
+  font-size: 0.9rem;
+  font-weight: 500;
+  color: #6c757d;
+}
+
+/* Different colors for different boxes */
+.temp {
+  border-left: 6px solid #ff6b6b;
+}
+.wind {
+  border-left: 6px solid #00c9a7;
+}
+.time {
+  border-left: 6px solid #4dabf7;
+}
+.india-time {
+  border-left: 6px solid #f59f00;
+}
